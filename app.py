@@ -3,7 +3,12 @@ import numpy as np
 import av
 import mediapipe as mp
 from streamlit_webrtc import webrtc_streamer, WebRtcMode, RTCConfiguration
+import streamlit as st
 
+# title
+st.title("Sign Langugae Detection")
+st.sidebar.title("Select an image")
+st.sidebar.file_uploader("Select an image from local disk")
 mp_drawing = mp.solutions.drawing_utils
 mp_drawing_styles = mp.solutions.drawing_styles
 mp_hands = mp.solutions.hands
