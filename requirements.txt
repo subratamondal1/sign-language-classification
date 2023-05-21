@@ -1,6 +1,7 @@
-numpy
+numpy==1.22.3
 cv2
 av
 mediapipe
 streamlit_webrtc
 streamlit
+tensorflow==2.12.0
