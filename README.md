@@ -1,2 +1,1 @@
-# sign-language-classification
-computer vision, classification
+# Task Solution file: STEMpedia.ipynb
