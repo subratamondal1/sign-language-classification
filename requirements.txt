@@ -64,6 +64,7 @@ fastdownload==0.0.7
 fastjsonschema==2.16.2
 fastprogress @ git+https://github.com/hsm/fastprogress.git@1f1664956a6a38085f6968ceeb27042daa5921b9
 feature-engine==1.5.2
+ffmpeg==1.4
 ffmpy==0.3.0
 filelock==3.9.0
 Flask==2.2.2
